@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+*.parquet
+*.pt
+*.pth
+*.bin
+*.safetensors
+hf_cache/
+t5-base-review-generator*/

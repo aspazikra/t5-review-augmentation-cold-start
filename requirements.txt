@@ -1,0 +1,12 @@
+torch
+transformers[torch]
+accelerate
+datasets==2.20.0
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+evaluate
+rouge_score
+bert_score
